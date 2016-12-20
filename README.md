@@ -26,3 +26,13 @@ Who | What | How much | Github Issue
 Who | What | How much | Github Issue
 --- | --- | --- | ---
 @pinpong | Proper error response for attachToTangle when being forcefully interrupted | $100 | https://github.com/iotaledger/wallet/issues/21#issue-193558980
+
+
+# Awesomeness Prize
+
+Dedicated testers who have helped a lot with the testing of IRI and all the libraries have received this prize:
+
+Who | How much 
+--- | --- 
+Alfred | $250
+Oliver Nitzschke | $250

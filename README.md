@@ -26,6 +26,7 @@ Who | What | How much | Github Issue
 Who | What | How much | Github Issue
 --- | --- | --- | ---
 @pinpong | Proper error response for attachToTangle when being forcefully interrupted | $100 | https://github.com/iotaledger/wallet/issues/21#issue-193558980
+@cointer | Invalid variable declaration | $20 | None
 
 
 # Awesomeness Prize

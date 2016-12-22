@@ -8,7 +8,7 @@ This is the public list of successfully paid out bugs that were found during the
 
 Who | What | How much | Github Issue / PR
 --- | --- | --- | ---
-@pinpog | getNeighbors invalid API | $50 | https://github.com/iotaledger/iri/commit/79cb2d091410940ded2173d2e1b80d419fe988e7 
+@pinpong | getNeighbors invalid API | $50 | https://github.com/iotaledger/iri/commit/79cb2d091410940ded2173d2e1b80d419fe988e7 
 @pinpong | Type, unused parsing | $50 | https://github.com/iotaledger/iri/commit/c5731c3fdf27846a3cf782a3154566574d03fc96 
 @pinpong | Small typo | $10 | https://github.com/pinpong/iri/commit/5dde491f131a8aede154ef30868a11429ceb65ab  
 
@@ -27,7 +27,8 @@ Who | What | How much | Github Issue
 --- | --- | --- | ---
 @pinpong | Proper error response for attachToTangle when being forcefully interrupted | $100 | https://github.com/iotaledger/wallet/issues/21#issue-193558980
 @cointer | Invalid variable declaration | $20 | None
-
+@markbradshaw | Missing error check | $50 | https://github.com/iotaledger/iota.lib.js/pull/16
+@markbradshaw | Invalid bundle remainder calculation | $100 | https://github.com/iotaledger/iota.lib.js/pull/19  
 
 # Awesomeness Prize
 
